@@ -13,4 +13,8 @@ Results_and_Graphs_72624.R: outputs main text and supplement figures using outpu
 
 Results_part2_72624.R : outputs vaccine doses per case/death averted plots and data using output from Non-Stochastic_Code_7824.R.
 
+Additionally, shiny app which also runs this model and can allow for variation of major model parameters can be found here:
+https://savinkina.shinyapps.io/App_Quick/
+
+
 
